@@ -1,5 +1,14 @@
 # Most Important Step
-Add shader in pubspec under shader tag , not assets 
+Add shader in pubspec under shaders tag , not assets 
+```yaml
+flutter:
+ .......
+   assets:
+     ..........
+   shaders:
+     ............
+```
+
 
 
 # 1
